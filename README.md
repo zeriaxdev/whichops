@@ -1,16 +1,16 @@
-# cliframework
+# cli-library
 
-`cliframework` is a CLI tool to inspect a website and output the results. The program searches for `elements` that might contain something about the framework.
+`cli-library` is a CLI tool to inspect a website and output the results. The program searches for `elements` that might contain something about the framework.
 
 ## Installation and usage
 
 You need to install it globally, and then just run it!
 
 ```none
-$ npm i -g cliframework
-$ cliframework
+$ npm i -g cli-library
+$ cli-library
 
-  Thank you for using cliframework!
+  Thank you for using cli-library!
   ---------------------------
   Type in a website domain or a page, and
   JSDOM will check for any frameworks!
@@ -23,9 +23,9 @@ $ cliframework
 For more help, try:
 
 ```none
-$ cliframework -h
+$ cli-library -h
 
-Usage: cliframework [options]
+Usage: cli-library [options]
 
 CLI tool to detect JavaScript frameworks/libraries that the website is using.
 

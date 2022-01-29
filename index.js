@@ -3,10 +3,10 @@ import gradient from "gradient-string";
 import { ask, welcome, fetchURL } from "./functions.js";
 
 const program = new Command();
-const version = "1.0.0";
+const version = "1.0.1";
 
 program
-  .name("cliframework")
+  .name("cli-library")
   .description(
     "CLI tool to detect JavaScript frameworks/libraries that the website is using."
   )
