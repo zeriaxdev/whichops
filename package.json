@@ -14,10 +14,17 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node ."
+    "test": "node index.js",
+    "run": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "cliframework",
+    "javascript",
+    "framework",
+    "library"
+  ],
+  "author": "zeriaxdev",
   "license": "ISC",
-  "description": ""
+  "description": "CLI tool to detect JavaScript frameworks/libraries that the website is using."
 }
