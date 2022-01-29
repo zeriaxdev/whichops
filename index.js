@@ -4,7 +4,7 @@ import gradient from "gradient-string";
 import { ask, welcome, fetchURL } from "./functions.js";
 
 const program = new Command();
-const version = "1.0.2";
+const version = "1.0.3";
 
 program
   .name("cli-library")

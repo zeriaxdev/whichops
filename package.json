@@ -1,7 +1,7 @@
 {
   "name": "cli-library",
   "description": "CLI tool to detect JavaScript frameworks/libraries that the website is using.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -22,7 +22,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeriaxdev/cliframework"
+    "url": "https://github.com/zeriaxdev/cli-library"
   },
   "dependencies": {
     "chalk": "^5.0.0",
