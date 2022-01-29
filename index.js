@@ -4,10 +4,10 @@ import gradient from "gradient-string";
 import { ask, welcome, fetchURL } from "./functions.js";
 
 const program = new Command();
-const version = "1.0.4";
+const version = "1.0.5";
 
 program
-  .name("cli-library")
+  .name("whichops")
   .description(
     "CLI tool to detect JavaScript frameworks/libraries that the website is using."
   )

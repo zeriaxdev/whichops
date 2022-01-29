@@ -1,16 +1,16 @@
-# cli-library
+# whichops
 
-`cli-library` is a CLI tool to inspect a website and output the results. The program searches for `elements` that might contain something about the framework.
+`whichops` is a CLI tool to inspect a website and output the results. The program searches for `elements` that might contain something about the framework.
 
 ## Installation and usage
 
 You need to install it globally, and then just run it!
 
 ```none
-$ npm i -g cli-library
-$ cli-library
+$ npm i -g whichops
+$ whichops
 
-  Thank you for using cli-library!
+  Thank you for using whichops!
   ---------------------------
   Type in a website domain or a page, and
   JSDOM will check for any frameworks!
@@ -23,9 +23,9 @@ $ cli-library
 For more help, try:
 
 ```none
-$ cli-library -h
+$ whichops -h
 
-Usage: cli-library [options]
+Usage: whichops [options]
 
 CLI tool to detect JavaScript frameworks/libraries that the website is using.
 

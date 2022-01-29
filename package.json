@@ -1,7 +1,7 @@
 {
-  "name": "cli-library",
+  "name": "whichops",
   "description": "CLI tool to detect JavaScript frameworks/libraries that the website is using.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,11 +9,11 @@
     "run": "node index.js"
   },
   "bin": {
-    "cli-library": "./index.js"
+    "whichops": "./index.js"
   },
   "keywords": [
     "cli",
-    "cli-library",
+    "whichops",
     "javascript",
     "framework",
     "library"
@@ -22,7 +22,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeriaxdev/cli-library"
+    "url": "https://github.com/zeriaxdev/whichops"
   },
   "dependencies": {
     "chalk": "^5.0.0",

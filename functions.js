@@ -29,7 +29,7 @@ const randomURL = urls[Math.floor(Math.random() * urls.length)];
 
 async function welcome() {
   console.log(`
-  Thank you for using ${chalk.bold(gradient.vice("cli-library"))}!
+  Thank you for using ${chalk.bold(gradient.vice("whichops"))}!
   ---------------------------
   Type in a website domain or a page, and
   ${chalk.bold(gradient.fruit("JSDOM"))} will check for any ${gradient.cristal(
