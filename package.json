@@ -1,7 +1,7 @@
 {
   "name": "cli-library",
   "description": "CLI tool to detect JavaScript frameworks/libraries that the website is using.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
   "scripts": {

@@ -51,8 +51,8 @@ const ask = () =>
     });
 
 const fetchURL = (url) => {
-  const spinner = createSpinner(chalk.black("Fetching the site..."), {
-    color: "blue",
+  const spinner = createSpinner(chalk.gray("Fetching the site..."), {
+    color: "gray",
   }).start();
 
   const urlBold = chalk.bold(url);
