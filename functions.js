@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 import jsdom from "jsdom";
 import got from "got";
